@@ -9,6 +9,7 @@ This README provides detailed instructions on how to set up and execute the proj
 **Execution Steps**  
 Follow these steps to execute the project:
 
+  Make sure to create Server A and Server B folders in your local.
 **Run ServerB.py:**
 
 1. Open a terminal.  
